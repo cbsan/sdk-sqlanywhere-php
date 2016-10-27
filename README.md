@@ -17,7 +17,7 @@ The following binaries should be installed from your Unix installation disk if t
 - flex
 - php-dev
 
-> \$ phpize
-> \$ ./configure --with-sqlanywhere
-> \$ make
-> \$ sudo make install
+>- $ phpize 
+>- $ ./configure --with-sqlanywhere 
+>- $ make 
+>- $ sudo make install 

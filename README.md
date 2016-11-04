@@ -21,4 +21,7 @@ The following binaries should be installed from your Unix installation disk if t
 > $ ./configure --with-sqlanywhere 
 > $ make 
 > $ sudo make install 
+> $ make clean
 ```
+
+>  Ps.: For a perfect performance, you must copy the libs that are 'dep_lib' and put in / opt / sqlanywhere16
